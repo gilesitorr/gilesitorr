@@ -18,6 +18,7 @@ Greetings! My name is __Gil Estéfano Rodríguez Rivera__, but you can call me j
 
 - 🐍 __Python__ enthusiast
 - ®️ __R__ newbie
+- 📈 __MySQL__ and __MongoDB__
 - ⚠️ We enjoy a spicy amount of __Data Science__
 - :electron: __Statistical Physics and Thermodynamics__
 - I'm an active member of:
