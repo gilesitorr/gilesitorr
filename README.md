@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Greetings! My name is __Gil Estéfano Rodríguez Rivera__, but you can call me just __Gil__. I'm definitely a _passionate_ __4th-year physics undergrad__. Here are some __cool facts__ about me:
+Greetings! My name is __Gil Estéfano Rodríguez Rivera__, but you can call me just __Gil__. I'm a _passionate_ __4th-year physics undergrad__. Here are some __cool facts__ about me:
 
 - 🐍 __Python__ enthusiast
 - ®️ __R__ newbie
