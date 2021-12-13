@@ -25,3 +25,5 @@ Greetings! My name is __Gil Estéfano Rodríguez Rivera__, but you can call me j
   * 🧲 __GOLF__ (Grupo Organizado de Licenciatura en Física - Organized Group of Physics Undergrads)
   * 🧪 __SODAL DCI 2021-2022__ (Sociedad de Alumnos de la División de Ciencias e Ingenierías)
 - ♾️ Top tier __memer__ and your favourite 🐱 __cat__ fanatic
+
+Check out my [LinkedIn!](https://www.linkedin.com/in/gil-estéfano-rodríguez-rivera-690661216/).
