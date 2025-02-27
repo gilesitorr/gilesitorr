@@ -14,10 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm __Gil Estéfano Rodríguez Rivera__, but you can call me __Gil__. I'm a _passionate_ __data professional__ driven towards __deep learning__. Some __cool facts__ about me:
+I'm __Gil Estéfano Rodríguez Rivera__, but you can call me __Gil__. I'm driven towards __machine learning, deep learning, LLMs and architecture design__.
+
+
+Some __cool facts__ about me:
 
 - 🐍 __Python__ enthusiast
-- ⚠️ __Data + AI__ everything (Engineer, Scientist, Analyst)
+- ⚠️ __Data + AI__ everything (Engineer, Scientist, Analyst, etcétera, etcétera)
 - 🐱 __Instagram Cat__ conoisseur
 
 Check out my [LinkedIn!](https://www.linkedin.com/in/gilesitorr/).
